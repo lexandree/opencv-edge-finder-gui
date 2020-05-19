@@ -12,3 +12,15 @@ The using of the tool is as usually:
 `python3 find_edges.py <file name>`
 
 [Example output picture](highway-hough.png)
+
+# Version 2
+for Advanced Lane Finder
+
+`python3 find_edges2.py <file name>`
+
+Additional hyperparameters:
+- HLS color space tresholds
+- Color choice
+- Left, right, top, bottom margins
+- Perspective transform matrix
+
